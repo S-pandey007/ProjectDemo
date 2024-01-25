@@ -1,3 +1,4 @@
 # ProjectDemo
 This is my first repository
-Author - shubham pandey
+<br>
+<h2>Author - shubham pandey</h2>
